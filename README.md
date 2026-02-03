@@ -2,7 +2,7 @@
 
 Welcome to the official portfolio repository of **Nasirul** (also known as *Captain Cool* or *Arijitiyan*). This modern, high-performance website showcases my journey as a Full Stack Developer specializing in **Telegram Bots**, **Mini Apps**, and **Web3 Ecosystems**.
 
-![Project Preview](/public/img/preview.png)
+![Project Preview](https://i.ibb.co/2Yqzhp2Q/image.png)
 
 ## 🚀 Overview
 
